@@ -37,7 +37,7 @@
 # Installations:
 mkdir habit-tracker <br>
 cd habit-tracker <br>
-npm init -y
+npm init -y <br>
 npm install express body-parser cron ws 
 
 # To run:
