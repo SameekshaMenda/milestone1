@@ -1,6 +1,6 @@
 # milestone1
 
-Smart Habit Tracker with Daily Updates
+# Smart Habit Tracker with Daily Updates
  Overview
  The Smart Habit Tracker helps users maintain daily habits by providing a platform to log progress
  and receive reminders. It encourages consistency through automated updates and analytics.
