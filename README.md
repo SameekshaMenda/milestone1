@@ -33,3 +33,13 @@
  2. Error Handling:
  * Ensureproper validation and error messages for invalid inputs.
  * Useconsistent response formats ({ status, data, error })
+
+# Installations:
+mkdir habit-tracker
+cd habit-tracker
+npm init -y
+npm install express body-parser cron ws 
+
+# To run:
+node index.js
+
