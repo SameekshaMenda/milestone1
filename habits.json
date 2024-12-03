@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Drink 8 glasses of water",
+    "dailyGoal": 8,
+    "completedDates": [
+      "2024-12-03"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Drink 8 glasses of water",
+    "dailyGoal": 8,
+    "completedDates": []
+  },
+  {
+    "id": 3,
+    "name": "Drink 8 glasses of water",
+    "dailyGoal": 8,
+    "completedDates": []
+  }
+]
