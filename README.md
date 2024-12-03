@@ -9,9 +9,9 @@
  2. Markhabits as complete for the day.
  3. Send daily reminders via WebSocket.
  4. Track weekly completion data and visualize progress.
- Requirements
+# Requirements
 ● Endpoints:
- ○ AddHabit(POST /habits): Create a new habit with its daily goal.
+ * AddHabit(POST /habits): Create a new habit with its daily goal.
  ○ UpdateHabit (PUT /habits/:id): Mark a habit as complete for a day.
  ○ GetHabits (GET /habits): Fetch all active habits and their completion status.
  ○ WeeklyReport (GET /habits/report): Generate a progress report for the week.
