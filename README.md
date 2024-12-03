@@ -35,8 +35,8 @@
  * Useconsistent response formats ({ status, data, error })
 
 # Installations:
-mkdir habit-tracker
-cd habit-tracker
+mkdir habit-tracker <br>
+cd habit-tracker <br>
 npm init -y
 npm install express body-parser cron ws 
 
