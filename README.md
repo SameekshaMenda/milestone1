@@ -10,7 +10,7 @@
  2. Markhabits as complete for the day.
  3. Send daily reminders via WebSocket.
  4. Track weekly completion data and visualize progress.
- 5. 
+
 # Requirements
 ● Endpoints:
  * AddHabit(POST /habits): Create a new habit with its daily goal.
